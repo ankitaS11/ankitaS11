@@ -14,7 +14,7 @@ I’m currently pursuing B.Tech on ECE from International Institute of Informati
 <p align = "center">
 <a align= "center" href="https://github.com/ankitaS11">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitaS11&theme=radical">
-<img align="right" height="350" width="400" src="https://data.whicdn.com/images/222319615/original.gif" /> </a>
+<img align="right" height="300" width="400" src="https://data.whicdn.com/images/222319615/original.gif" /> </a>
 </p>
 
 ## Recent Blog Posts
