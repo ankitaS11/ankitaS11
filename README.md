@@ -19,11 +19,11 @@ I’m currently pursuing B.Tech on ECE from International Institute of Informati
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode: Product of an Array Except Self in CPP](https://jai-dewani.github.io/blogs/one-stop-solution-to-sharing-your-resume/)
-- [Basics of GANs and Loss Function](https://jai-dewani.github.io/blogs/extract-wifi-passwords/)
-- [Python - itertools.product()](https://jai-dewani.github.io/blogs/windows-file-structure/)
-- [__str__() v/s __repr__() in Python](https://jai-dewani.github.io/blogs/carl-zeiss-interview-experience/)
-- [Vectors in CPP](https://jai-dewani.github.io/blogs/automate-whatsapp/)
+- [Leetcode: Product of an Array Except Self in CPP](https://ankitas11.github.io/posts/2021/10/product-of-an-array-except-self/)
+- [Basics of GANs and Loss Function](https://ankitas11.github.io/posts/2021/09/basics-of-gans-and-loss-function/)
+- [Python - itertools.product()](https://ankitas11.github.io/posts/2021/09/python-itertools.product/)
+- [__str__() v/s __repr__() in Python](https://ankitas11.github.io/posts/2021/09/understanding-__-str-__-and-__-repr-__-in-python/)
+- [Vectors in CPP](https://ankitas11.github.io/posts/2021/09/vectors-in-c-/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
