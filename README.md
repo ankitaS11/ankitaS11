@@ -11,11 +11,11 @@ I’m currently pursuing B.Tech from International Institute of Information Tech
 [![Blog](https://img.shields.io/badge/Blog-ankitaS11.github.io/blog-yellowgreen)](https://ankitas11.github.io/posts/)
 </p>
 
-<p align = "center">
+<!-- <p align = "center">
 <a align= "center" href="https://github.com/ankitaS11">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitaS11&theme=radical">
 <img align="right" height="300" width="400" src="https://data.whicdn.com/images/222319615/original.gif" /> </a>
-</p>
+</p> -->
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
