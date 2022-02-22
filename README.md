@@ -1,14 +1,11 @@
 
-<h2 align="center"> Hello <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /></h2>
-
-I’m currently pursuing B.Tech from International Institute of Information Technology, Naya Raipur, India. 
-
-<p align = "justify">
+Hello <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45">
+I’m currently pursuing B.Tech from International Institute of Information Technology, Naya Raipur, India.
+  
 [![GitHub](https://img.shields.io/badge/GitHub-ankitaS11-red)](https://github.com/ankitaS11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankita\Sharma-blue)](https://www.linkedin.com/in/ankita-sharma-aabba8194/)
 [![Website](https://img.shields.io/badge/Website-ankitaS11.github.io-green)](https://ankitas11.github.io/)
 [![Blog](https://img.shields.io/badge/Blog-ankitaS11.github.io/blog-yellowgreen)](https://ankitas11.github.io/posts/)
-</p>
 
 <!-- <p align = "center">
 <a align= "center" href="https://github.com/ankitaS11">
