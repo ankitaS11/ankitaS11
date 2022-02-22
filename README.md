@@ -2,10 +2,13 @@
 Hello <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45">
 I’m currently pursuing B.Tech from International Institute of Information Technology, Naya Raipur, India.
   
-[![GitHub](https://img.shields.io/badge/GitHub-ankitaS11-red)](https://github.com/ankitaS11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankita\Sharma-blue)](https://www.linkedin.com/in/ankita-sharma-aabba8194/)
-[![Website](https://img.shields.io/badge/Website-ankitaS11.github.io-green)](https://ankitas11.github.io/)
-[![Blog](https://img.shields.io/badge/Blog-ankitaS11.github.io/blog-yellowgreen)](https://ankitas11.github.io/posts/)
+<hr>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/ankitaS11" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="AnkitaS11" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="hhttps://www.linkedin.com/in/ankita-sharma-aabba8194//" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="AnkitaS11" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+</hr>
 
 <!-- <p align = "center">
 <a align= "center" href="https://github.com/ankitaS11">
