@@ -25,7 +25,3 @@ I’m currently pursuing B.Tech from International Institute of Information Tech
 - [__str__() v/s __repr__() in Python](https://ankitas11.github.io/posts/2021/09/understanding-__-str-__-and-__-repr-__-in-python/)
 - [Vectors in CPP](https://ankitas11.github.io/posts/2021/09/vectors-in-c-/)
 <!-- BLOG-POST-LIST:END -->
-
-## GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitaS11&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)](https://ankitaS11.github.io)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitaS11&langs_count=5&theme=tokyonight)
